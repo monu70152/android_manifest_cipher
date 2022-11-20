@@ -56,7 +56,7 @@
   <project path="system/vold" name="android_system_vold" groups="pdk" remote="cipher" />
 
   <!-- vendor repos -->
-  <project path="vendor/cipher" name="android_vendor_cipher" remote="gitloda" />
+  <project path="vendor/cipher" name="android_vendor_cipher" remote="gitloda" revision="thirteen" />
   <project path="vendor/partner_gms" name="CipherOS/vendor_partner-gms" remote="gitlab" revision="tiramisu" clone-depth="1" />
 
 </manifest>
