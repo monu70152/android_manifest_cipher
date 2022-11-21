@@ -35,6 +35,6 @@
   <remove-project name="platform/system/vold" />
 
   <!-- extra -->
-  <remove-project name="platform/vendor/qcom/opensource" />
+  <!-- <remove-project name="platform/vendor/qcom/opensource" /> -->
 
 </manifest>
